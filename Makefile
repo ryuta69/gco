@@ -2,4 +2,4 @@ run:
 	cargo run
 
 install:
-	cargo install --force --root /usr/local --path .
+	cargo install --force --root ~/.cargo --path .
