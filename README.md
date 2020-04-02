@@ -23,5 +23,6 @@ make install
 
 Just command `gco` in git repository. It shows branch list and its log. You can fuzzy find a branch and checkout with enter key.
 
-<img alt="readme" src="https://user-images.githubusercontent.com/41639488/78294415-51a2ec80-7565-11ea-808c-5fc1be82677c.png">
+<img alt="readme" src="https://user-images.githubusercontent.com/41639488/78294759-ddb51400-7565-11ea-8a33-20cd5a19a1c5.png">
+
 
