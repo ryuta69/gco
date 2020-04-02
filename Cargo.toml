@@ -1,0 +1,8 @@
+[package]
+name = "gco"
+version = "0.1.0"
+authors = ["ryuta69 <eyma22s.yu@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+skim = "0.8.1"
