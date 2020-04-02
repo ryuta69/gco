@@ -3,6 +3,18 @@
 
 ## Installation
 
+### Brew
+```
+brew tap ryuta69/gco
+brew install gco
+```
+
+### Cargo
+```
+cargo install gco
+```
+
+### Manual
 ```
 make install
 ```
