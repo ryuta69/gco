@@ -16,7 +16,7 @@ pub fn main() {
 		.reverse(true)
 		.ansi(true)
 		.color(Some("dark,matched:39,matched_bg:0,current:11,current_bg:0,current_match:39,current_match_bg:0,spinner:21,info:144,prompt:110,cursor:161,selected:168,header:109,border:0"))
-		.preview(Some("echo {} | xargs -I% git log --color --stat %"))
+		.preview(Some("echo {} | xargs -I% git log --color --decorate --stat %"))
 		.preview_window(Some("right:50%:wrap"))
 		.build()
 		.unwrap();
